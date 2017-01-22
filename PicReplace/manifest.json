@@ -1,9 +1,10 @@
 {
   "manifest_version": 2,
 
-  "name": "Katye",
+  "name": "Kanye",
   "version": "0.1.0",
-  "description": "words to kanye and pics to katz",
+  "description": "Lateral blog post demo extension",
+  "permissions": ["*://*/*"],
 
 
   "browser_action": {
@@ -13,7 +14,8 @@
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["*://*/*"]
+    "matches": ["*://*/*"],
+    "run_at": "document_end"
   }]
 
 }
