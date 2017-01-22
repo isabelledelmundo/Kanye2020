@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Kanye",
+  "name": "Katye",
   "version": "0.1.0",
-  "description": "come back to this",
+  "description": "words to kanye and pics to katz",
 
 
   "browser_action": {
