@@ -3,12 +3,13 @@
 
   "name": "Kanye",
   "version": "0.1.0",
-  "description": "Lateral blog post demo extension",
+  "description": "changes all pictures to cats and all text of Donald Trump to Kanye 2020",
   "permissions": ["*://*/*"],
 
 
   "browser_action": {
-    "default_icon": "icon1_19x19.png"
+    "default_icon": "icon1_19x19.png",
+    "default_title": "Make America Great Again"
   },
 
   "content_scripts": [{
