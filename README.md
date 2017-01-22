@@ -1,2 +1,2 @@
-# Kanye2020
-Chrome extension to block Donald Trump out of everything (hah!) and replace it with Kanye2020 propaganda.
+# Katye
+Chrome extension to change every text instance of Donald Trump to kanye2020 and every picture to a cat
